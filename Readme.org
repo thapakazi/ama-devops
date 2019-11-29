@@ -1,0 +1,9 @@
+#+TITLE: ASK ME ANYTHING 
+#+DESCRIPTION: ask me anything - devops
+#+DATE: Friday, Nov 29 2019
+
+* TODO I will update this soon...
+* Info
+  I don't have time to update the readme now, lets grab it from twitter:
+  https://twitter.com/thapakazi_/status/1200245263530516482
+
